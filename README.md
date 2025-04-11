@@ -26,7 +26,7 @@ It ensures that everything happens in the correct order, and makes your workflow
 
 Example:
 
-  from sklearn.pipeline import Pipelin  
+  from sklearn.pipeline import Pipeline
   
   from sklearn.preprocessing import StandardScaler
   
